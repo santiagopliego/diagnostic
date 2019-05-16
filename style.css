@@ -1,0 +1,15 @@
+* {
+	box-sizing: border-box;
+	font: Lato;
+
+}
+
+
+h1 {
+	font-weight: 600
+}
+
+.inline {
+	color: green
+	text-decoration: underline;
+}
